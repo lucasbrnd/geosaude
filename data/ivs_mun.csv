@@ -1,0 +1,422 @@
+,Municipality,UF
+0,Cariacica,ES
+1,Fundão,ES
+2,Guarapari,ES
+3,Serra,ES
+4,Viana,ES
+5,Vila Velha,ES
+6,Vitória,ES
+7,Arujá,SP
+8,Barueri,SP
+9,Biritiba-Mirim,SP
+10,Caieiras,SP
+11,Cajamar,SP
+12,Carapicuíba,SP
+13,Cotia,SP
+14,Diadema,SP
+15,Embu,SP
+16,Embu-Guaçu,SP
+17,Ferraz de Vasconcelos,SP
+18,Francisco Morato,SP
+19,Franco da Rocha,SP
+20,Guararema,SP
+21,Guarulhos,SP
+22,Itapecerica da Serra,SP
+23,Itapevi,SP
+24,Itaquaquecetuba,SP
+25,Jandira,SP
+26,Juquitiba,SP
+27,Mairiporã,SP
+28,Mauá,SP
+29,Mogi das Cruzes,SP
+30,Osasco,SP
+31,Pirapora do Bom Jesus,SP
+32,Poá,SP
+33,Ribeirão Pires,SP
+34,Rio Grande da Serra,SP
+35,Salesópolis,SP
+36,Santa Isabel,SP
+37,Santana de Parnaíba,SP
+38,Santo André,SP
+39,São Bernardo do Campo,SP
+40,São Caetano do Sul,SP
+41,São Lourenço da Serra,SP
+42,São Paulo,SP
+43,Suzano,SP
+44,Taboão da Serra,SP
+45,Vargem Grande Paulista,SP
+46,Alcântara,MA
+47,Paço do Lumiar,MA
+48,Raposa,MA
+49,São José de Ribamar,MA
+50,São Luís,MA
+51,Camaçari,BA
+52,Candeias,BA
+53,Dias D'Ávila,BA
+54,Itaparica,BA
+55,Lauro de Freitas,BA
+56,Madre de Deus,BA
+57,Mata de São João,BA
+58,Pojuca,BA
+59,Salvador,BA
+60,São Francisco do Conde,BA
+61,São Sebastião do Passé,BA
+62,Simões Filho,BA
+63,Vera Cruz,BA
+64,Belford Roxo,RJ
+65,Duque de Caxias,RJ
+66,Guapimirim,RJ
+67,Itaboraí,RJ
+68,Itaguaí,RJ
+69,Japeri,RJ
+70,Magé,RJ
+71,Maricá,RJ
+72,Mesquita,RJ
+73,Nilópolis,RJ
+74,Niterói,RJ
+75,Nova Iguaçu,RJ
+76,Paracambi,RJ
+77,Queimados,RJ
+78,Rio de Janeiro,RJ
+79,São Gonçalo,RJ
+80,São João de Meriti,RJ
+81,Seropédica,RJ
+82,Tanguá,RJ
+83,Cachoeiras de Macacu,RJ
+84,Rio Bonito,RJ
+85,Abreu E Lima,PE
+86,Araçoiaba,PE
+87,Cabo de Santo Agostinho,PE
+88,Camaragibe,PE
+89,Igarassu,PE
+90,Ipojuca,PE
+91,Ilha de Itamaracá,PE
+92,Itapissuma,PE
+93,Jaboatão dos Guararapes,PE
+94,Moreno,PE
+95,Olinda,PE
+96,Paulista,PE
+97,Recife,PE
+98,São Lourenço da Mata,PE
+99,Alvorada,RS
+100,Araricá,RS
+101,Arroio dos Ratos,RS
+102,Cachoeirinha,RS
+103,Campo Bom,RS
+104,Canoas,RS
+105,Capela de Santana,RS
+106,Charqueadas,RS
+107,Dois Irmãos,RS
+108,Eldorado do Sul,RS
+109,Estância Velha,RS
+110,Esteio,RS
+111,Glorinha,RS
+112,Gravataí,RS
+113,Guaíba,RS
+114,Igrejinha,RS
+115,Ivoti,RS
+116,Montenegro,RS
+117,Nova Hartz,RS
+118,Nova Santa Rita,RS
+119,Novo Hamburgo,RS
+120,Parobé,RS
+121,Portão,RS
+122,Porto Alegre,RS
+123,Rolante,RS
+124,Santo Antônio da Patrulha,RS
+125,São Jerônimo,RS
+126,São Leopoldo,RS
+127,São Sebastião do Caí,RS
+128,Sapiranga,RS
+129,Sapucaia do Sul,RS
+130,Taquara,RS
+131,Triunfo,RS
+132,Viamão,RS
+133,Ceará-Mirim,RN
+134,Parnamirim,RN
+135,Extremoz,RN
+136,Macaíba,RN
+137,Monte Alegre,RN
+138,Natal,RN
+139,Nísia Floresta,RN
+140,São Gonçalo do Amarante,RN
+141,São José de Mipibu,RN
+142,Vera Cruz,RN
+143,Careiro da Várzea,AM
+144,Iranduba,AM
+145,Itacoatiara,AM
+146,Manacapuru,AM
+147,Manaus,AM
+148,Novo Airão,AM
+149,Presidente Figueiredo,AM
+150,Rio Preto da Eva,AM
+151,Barra de Santo Antônio,AL
+152,Barra de São Miguel,AL
+153,Coqueiro Seco,AL
+154,Maceió,AL
+155,Marechal Deodoro,AL
+156,Messias,AL
+157,Paripueira,AL
+158,Pilar,AL
+159,Rio Largo,AL
+160,Santa Luzia do Norte,AL
+161,São Miguel dos Campos,AL
+162,Satuba,AL
+163,Abadia de Goiás,GO
+164,Aparecida de Goiânia,GO
+165,Aragoiânia,GO
+166,Bela Vista de Goiás,GO
+167,Bonfinópolis,GO
+168,Brazabrantes,GO
+169,Caldazinha,GO
+170,Caturaí,GO
+171,Goianápolis,GO
+172,Goiânia,GO
+173,Goianira,GO
+174,Guapó,GO
+175,Hidrolândia,GO
+176,Inhumas,GO
+177,Nerópolis,GO
+178,Nova Veneza,GO
+179,Santo Antônio de Goiás,GO
+180,Senador Canedo,GO
+181,Terezópolis de Goiás,GO
+182,Trindade,GO
+183,Aquiraz,CE
+184,Cascavel,CE
+185,Caucaia,CE
+186,Chorozinho,CE
+187,Eusébio,CE
+188,Fortaleza,CE
+189,Guaiúba,CE
+190,Horizonte,CE
+191,Itaitinga,CE
+192,Maracanaú,CE
+193,Maranguape,CE
+194,Pacajus,CE
+195,Pacatuba,CE
+196,Pindoretama,CE
+197,São Gonçalo do Amarante,CE
+198,Adrianópolis,PR
+199,Agudos do Sul,PR
+200,Almirante Tamandaré,PR
+201,Araucária,PR
+202,Balsa Nova,PR
+203,Bocaiúva do Sul,PR
+204,Campina Grande do Sul,PR
+205,Campo do Tenente,PR
+206,Campo Largo,PR
+207,Campo Magro,PR
+208,Cerro Azul,PR
+209,Colombo,PR
+210,Contenda,PR
+211,Curitiba,PR
+212,Fazenda Rio Grande,PR
+213,Itaperuçu,PR
+214,Lapa,PR
+215,Mandirituba,PR
+216,Piên,PR
+217,Pinhais,PR
+218,Piraquara,PR
+219,Quatro Barras,PR
+220,Quitandinha,PR
+221,Rio Branco do Sul,PR
+222,Rio Negro,PR
+223,São José dos Pinhais,PR
+224,Tijucas do Sul,PR
+225,Tunas do Paraná,PR
+226,Doutor Ulysses,PR
+227,Cuiabá,MT
+228,Nossa Senhora do Livramento,MT
+229,Santo Antônio do Leverger,MT
+230,Várzea Grande,MT
+231,Americana,SP
+232,Artur Nogueira,SP
+233,Campinas,SP
+234,Cosmópolis,SP
+235,Holambra,SP
+236,Hortolândia,SP
+237,Indaiatuba,SP
+238,Itatiba,SP
+239,Jaguariúna,SP
+240,Monte Mor,SP
+241,Nova Odessa,SP
+242,Paulínia,SP
+243,Pedreira,SP
+244,Santa Bárbara D'Oeste,SP
+245,Santo Antônio de Posse,SP
+246,Sumaré,SP
+247,Valinhos,SP
+248,Vinhedo,SP
+249,Engenheiro Coelho,SP
+250,Baldim,MG
+251,Belo Horizonte,MG
+252,Betim,MG
+253,Brumadinho,MG
+254,Caeté,MG
+255,Capim Branco,MG
+256,Confins,MG
+257,Contagem,MG
+258,Esmeraldas,MG
+259,Florestal,MG
+260,Ibirité,MG
+261,Igarapé,MG
+262,Itaguara,MG
+263,Itatiaiuçu,MG
+264,Jaboticatubas,MG
+265,Nova União,MG
+266,Juatuba,MG
+267,Lagoa Santa,MG
+268,Mário Campos,MG
+269,Mateus Leme,MG
+270,Matozinhos,MG
+271,Nova Lima,MG
+272,Pedro Leopoldo,MG
+273,Raposos,MG
+274,Ribeirão das Neves,MG
+275,Rio Acima,MG
+276,Rio Manso,MG
+277,Sabará,MG
+278,Santa Luzia,MG
+279,São Joaquim de Bicas,MG
+280,São José da Lapa,MG
+281,Sarzedo,MG
+282,Taquaraçu de Minas,MG
+283,Vespasiano,MG
+284,Ananindeua,PA
+285,Belém,PA
+286,Benevides,PA
+287,Castanhal,PA
+288,Marituba,PA
+289,Santa Bárbara do Pará,PA
+290,Santa Isabel do Pará,PA
+291,Bertioga,SP
+292,Cubatão,SP
+293,Guarujá,SP
+294,Itanhaém,SP
+295,Mongaguá,SP
+296,Peruíbe,SP
+297,Praia Grande,SP
+298,Santos,SP
+299,São Vicente,SP
+300,Brasília,DF
+301,Buritis,MG
+302,Unaí,MG
+303,Abadiânia,GO
+304,Água Fria de Goiás,GO
+305,Águas Lindas de Goiás,GO
+306,Alexânia,GO
+307,Cabeceiras,GO
+308,Cidade Ocidental,GO
+309,Cocalzinho de Goiás,GO
+310,Corumbá de Goiás,GO
+311,Cristalina,GO
+312,Formosa,GO
+313,Luziânia,GO
+314,Mimoso de Goiás,GO
+315,Novo Gama,GO
+316,Padre Bernardo,GO
+317,Pirenópolis,GO
+318,Planaltina,GO
+319,Santo Antônio do Descoberto,GO
+320,Valparaíso de Goiás,GO
+321,Vila Boa,GO
+322,Cabeceira Grande,MG
+323,Aparecida,SP
+324,Arapeí,SP
+325,Areias,SP
+326,Bananal,SP
+327,Caçapava,SP
+328,Cachoeira Paulista,SP
+329,Campos do Jordão,SP
+330,Canas,SP
+331,Caraguatatuba,SP
+332,Cruzeiro,SP
+333,Cunha,SP
+334,Guaratinguetá,SP
+335,Igaratá,SP
+336,Ilhabela,SP
+337,Jacareí,SP
+338,Jambeiro,SP
+339,Lagoinha,SP
+340,Lavrinhas,SP
+341,Lorena,SP
+342,Monteiro Lobato,SP
+343,Natividade da Serra,SP
+344,Paraibuna,SP
+345,Pindamonhangaba,SP
+346,Piquete,SP
+347,Potim,SP
+348,Queluz,SP
+349,Redenção da Serra,SP
+350,Roseira,SP
+351,Santa Branca,SP
+352,Santo Antônio do Pinhal,SP
+353,São Bento do Sapucaí,SP
+354,São José do Barreiro,SP
+355,São José dos Campos,SP
+356,São Luís do Paraitinga,SP
+357,São Sebastião,SP
+358,Silveiras,SP
+359,Taubaté,SP
+360,Tremembé,SP
+361,Ubatuba,SP
+362,Maxaranguape,RN
+363,Teresina,PI
+364,José de Freitas,PI
+365,Timon,MA
+366,Altos,PI
+367,Beneditinos,PI
+368,Coivaras,PI
+369,Curralinhos,PI
+370,Demerval Lobão,PI
+371,Lagoa do Piauí,PI
+372,Miguel Leão,PI
+373,Monsenhor Gil,PI
+374,Nazária,PI
+375,Pau D'Arco do Piauí,PI
+376,União,PI
+377,Lagoa Alegre,PI
+378,Boituva,SP
+379,Cerquilho,SP
+380,Ibiúna,SP
+381,Itu,SP
+382,Mairinque,SP
+383,Piedade,SP
+384,Porto Feliz,SP
+385,Salto,SP
+386,Salto de Pirapora,SP
+387,São Miguel Arcanjo,SP
+388,São Roque,SP
+389,Sorocaba,SP
+390,Tatuí,SP
+391,Votorantim,SP
+392,Alambari,SP
+393,Alumínio,SP
+394,Araçariguama,SP
+395,Araçoiaba da Serra,SP
+396,Capela do Alto,SP
+397,Cesário Lange,SP
+398,Iperó,SP
+399,Jumirim,SP
+400,Pilar do Sul,SP
+401,Sarapuí,SP
+402,Tapiraí,SP
+403,Tietê,SP
+404,Lagoa Grande,PE
+405,Orocó,PE
+406,Petrolina,PE
+407,Santa Maria da Boa Vista,PE
+408,Casa Nova,BA
+409,Curaçá,BA
+410,Juazeiro,BA
+411,Sobradinho,BA
+412,Águas Mornas,SC
+413,Antônio Carlos,SC
+414,Biguaçu,SC
+415,Florianópolis,SC
+416,Governador Celso Ramos,SC
+417,Palhoça,SC
+418,Santo Amaro da Imperatriz,SC
+419,São José,SC
+420,São Pedro de Alcântara,SC

@@ -1,0 +1,646 @@
+,Municipality
+0,Buritizal
+1,Mariápolis
+2,Marília
+3,Cabrália Paulista
+4,Cabreúva
+5,Caçapava
+6,Cachoeira Paulista
+7,Caconde
+8,Cafelândia
+9,Caiabu
+10,Caieiras
+11,Caiuá
+12,Cajamar
+13,Cajati
+14,Cajobi
+15,Cajuru
+16,Campina do Monte Alegre
+17,Campinas
+18,Campo Limpo Paulista
+19,Campos do Jordão
+20,Campos Novos Paulista
+21,Cananéia
+22,Canas
+23,Cândido Mota
+24,Cândido Rodrigues
+25,Canitar
+26,Capão Bonito
+27,Capela do Alto
+28,Capivari
+29,Caraguatatuba
+30,Carapicuíba
+31,Cotia
+32,Cristais Paulista
+33,Cruzália
+34,Cruzeiro
+35,Embu
+36,Cardoso
+37,Casa Branca
+38,Cássia dos Coqueiros
+39,Castilho
+40,Catanduva
+41,Catiguá
+42,Cedral
+43,Cerqueira César
+44,Cerquilho
+45,Cesário Lange
+46,Charqueada
+47,Clementina
+48,Colina
+49,Colômbia
+50,Conchal
+51,Conchas
+52,Cordeirópolis
+53,Coroados
+54,Coronel Macedo
+55,Corumbataí
+56,Cosmópolis
+57,Cosmorama
+58,Marinópolis
+59,Martinópolis
+60,Matão
+61,Mauá
+62,Cravinhos
+63,Mendonça
+64,Meridiano
+65,Mesópolis
+66,Miguelópolis
+67,Cubatão
+68,Cunha
+69,Descalvado
+70,Diadema
+71,Dirce Reis
+72,Divinolândia
+73,Dobrada
+74,Dois Córregos
+75,Dolcinópolis
+76,Dourado
+77,Dracena
+78,Duartina
+79,Dumont
+80,Echaporã
+81,Eldorado
+82,Elias Fausto
+83,Elisiário
+84,Embaúba
+85,Estrela d'Oeste
+86,Estrela do Norte
+87,Fartura
+88,Fernandópolis
+89,Franco da Rocha
+90,Guaíra
+91,Guarulhos
+92,Embu-Guaçu
+93,Mineiros do Tietê
+94,Miracatu
+95,Mira Estrela
+96,Mirandópolis
+97,Emilianópolis
+98,Engenheiro Coelho
+99,Espírito Santo do Pinhal
+100,Espírito Santo do Turvo
+101,Mirante do Paranapanema
+102,Euclides da Cunha Paulista
+103,Fernando Prestes
+104,Fernão
+105,Ferraz de Vasconcelos
+106,Flora Rica
+107,Floreal
+108,Flórida Paulista
+109,Florínia
+110,Franca
+111,Francisco Morato
+112,Gabriel Monteiro
+113,Gália
+114,Garça
+115,Gastão Vidigal
+116,Gavião Peixoto
+117,General Salgado
+118,Getulina
+119,Glicério
+120,Guaiçara
+121,Guaimbê
+122,Guapiaçu
+123,Guapiara
+124,Guará
+125,Guaraçaí
+126,Guaraci
+127,Guarani d'Oeste
+128,Guarantã
+129,Guararapes
+130,Guararema
+131,Guaratinguetá
+132,Guareí
+133,Guariba
+134,Guarujá
+135,Ibitinga
+136,Itapecerica da Serra
+137,Itapetininga
+138,Itapira
+139,Itaquaquecetuba
+140,Mirassol
+141,Mirassolândia
+142,Mococa
+143,Mogi das Cruzes
+144,Guatapará
+145,Guzolândia
+146,Herculândia
+147,Holambra
+148,Hortolândia
+149,Iacanga
+150,Iacri
+151,Iaras
+152,Ibaté
+153,Ibirá
+154,Ibirarema
+155,Ibiúna
+156,Icém
+157,Iepê
+158,Igaraçu do Tietê
+159,Igarapava
+160,Igaratá
+161,Iguape
+162,Ilhabela
+163,Ilha Comprida
+164,Ilha Solteira
+165,Indaiatuba
+166,Indiana
+167,Indiaporã
+168,Inúbia Paulista
+169,Ipaussu
+170,Iperó
+171,Ipeúna
+172,Ipiguá
+173,Iporanga
+174,Ipuã
+175,Iracemápolis
+176,Irapuã
+177,Irapuru
+178,Itaberá
+179,Itaí
+180,Itajobi
+181,Itaju
+182,Itanhaém
+183,Itaóca
+184,Itapeva
+185,Itapevi
+186,Itapirapuã Paulista
+187,Itápolis
+188,Itaporanga
+189,Itapuí
+190,Itapura
+191,Itararé
+192,Itariri
+193,Itatiba
+194,Itirapina
+195,Itirapuã
+196,Itobi
+197,Jacareí
+198,Jandira
+199,Itatinga
+200,Itu
+201,Itupeva
+202,Mogi Guaçu
+203,Moji Mirim
+204,Monte Alto
+205,Monte Mor
+206,Osasco
+207,Ituverava
+208,Jaborandi
+209,Jaboticabal
+210,Jaci
+211,Jacupiranga
+212,Jaguariúna
+213,Jales
+214,Jambeiro
+215,Jardinópolis
+216,Jarinu
+217,Jaú
+218,Jeriquara
+219,Joanópolis
+220,João Ramalho
+221,José Bonifácio
+222,Júlio Mesquita
+223,Jumirim
+224,Jundiaí
+225,Limeira
+226,Junqueirópolis
+227,Juquiá
+228,Juquitiba
+229,Lagoinha
+230,Laranjal Paulista
+231,Lavínia
+232,Lavrinhas
+233,Leme
+234,Lençóis Paulista
+235,Lindóia
+236,Lins
+237,Lorena
+238,Lourdes
+239,Louveira
+240,Lucélia
+241,Lucianópolis
+242,Luís Antônio
+243,Luiziânia
+244,Lupércio
+245,Lutécia
+246,Macatuba
+247,Macaubal
+248,Macedônia
+249,Magda
+250,Mairinque
+251,Mairiporã
+252,Manduri
+253,Marabá Paulista
+254,Maracaí
+255,Marapoama
+256,São Paulo
+257,Mombuca
+258,Monções
+259,Mongaguá
+260,Monte Alegre do Sul
+261,Monte Aprazível
+262,Monte Azul Paulista
+263,Monte Castelo
+264,Monteiro Lobato
+265,Morro Agudo
+266,Morungaba
+267,Motuca
+268,Murutinga do Sul
+269,Nantes
+270,Narandiba
+271,Natividade da Serra
+272,Nazaré Paulista
+273,Neves Paulista
+274,Nhandeara
+275,Nipoã
+276,Nova Aliança
+277,Nova Campina
+278,Nova Canaã Paulista
+279,Nova Castilho
+280,Nova Europa
+281,Nova Granada
+282,Nova Guataporanga
+283,Nova Independência
+284,Novais
+285,Nova Luzitânia
+286,Nova Odessa
+287,Novo Horizonte
+288,Nuporanga
+289,Ocauçu
+290,Óleo
+291,Olímpia
+292,Onda Verde
+293,Oriente
+294,Orindiúva
+295,Orlândia
+296,Palestina
+297,Paraguaçu Paulista
+298,Paraíso
+299,Paranapanema
+300,Parapuã
+301,Peruíbe
+302,Pindorama
+303,Oscar Bressane
+304,Osvaldo Cruz
+305,Ourinhos
+306,Ouroeste
+307,Ouro Verde
+308,Pacaembu
+309,Palmares Paulista
+310,Palmeira d'Oeste
+311,Palmital
+312,Panorama
+313,Paraibuna
+314,Paranapuã
+315,Pardinho
+316,Pariquera-Açu
+317,Parisi
+318,Patrocínio Paulista
+319,Paulicéia
+320,Paulínia
+321,Paulistânia
+322,Paulo de Faria
+323,Pederneiras
+324,Pedra Bela
+325,Pedranópolis
+326,Pedregulho
+327,Pedreira
+328,Pedrinhas Paulista
+329,Pedro de Toledo
+330,Penápolis
+331,Pereira Barreto
+332,Pereiras
+333,Piacatu
+334,Piedade
+335,Pilar do Sul
+336,Pindamonhangaba
+337,Pinhalzinho
+338,Piquerobi
+339,Piquete
+340,Piracaia
+341,Piracicaba
+342,Presidente Prudente
+343,Redenção da Serra
+344,Regente Feijó
+345,Ribeirão Preto
+346,Rio Claro
+347,Piraju
+348,Pirajuí
+349,Pirangi
+350,Pirapora do Bom Jesus
+351,Pirapozinho
+352,Pirassununga
+353,Piratininga
+354,Pitangueiras
+355,Planalto
+356,Platina
+357,Poá
+358,Poloni
+359,Pompéia
+360,Pongaí
+361,Pontal
+362,Pontalinda
+363,Pontes Gestal
+364,Populina
+365,Porangaba
+366,Porto Feliz
+367,Porto Ferreira
+368,Potim
+369,Potirendaba
+370,Pracinha
+371,Pradópolis
+372,Praia Grande
+373,Pratânia
+374,Presidente Alves
+375,Presidente Bernardes
+376,Presidente Epitácio
+377,Presidente Venceslau
+378,Promissão
+379,Quadra
+380,Quatá
+381,Queiroz
+382,Queluz
+383,Quintana
+384,Rafard
+385,Rancharia
+386,Reginópolis
+387,Registro
+388,Restinga
+389,Ribeira
+390,Ribeirão Bonito
+391,Ribeirão Branco
+392,Ribeirão Corrente
+393,Ribeirão do Sul
+394,Ribeirão dos Índios
+395,Ribeirão Grande
+396,Ribeirão Pires
+397,Riversul
+398,Rifaina
+399,Rincão
+400,Rinópolis
+401,Rio das Pedras
+402,Rio Grande da Serra
+403,Riolândia
+404,Rosana
+405,Roseira
+406,Rubiácea
+407,Rubinéia
+408,Sabino
+409,Sagres
+410,Sales
+411,Sales Oliveira
+412,Salesópolis
+413,Salmourão
+414,Saltinho
+415,Salto
+416,Salto de Pirapora
+417,Salto Grande
+418,Sandovalina
+419,Santa Adélia
+420,Santa Albertina
+421,Santa Bárbara d'Oeste
+422,Santa Branca
+423,Santa Clara d'Oeste
+424,Santa Cruz das Palmeiras
+425,Santa Cruz do Rio Pardo
+426,Santa Gertrudes
+427,Santo André
+428,Santa Cruz da Conceição
+429,Santa Cruz da Esperança
+430,Santa Ernestina
+431,Santa Fé do Sul
+432,Santa Isabel
+433,Santa Lucia
+434,Santa Maria da Serra
+435,Santa Mercedes
+436,Santana da Ponte Pensa
+437,Santana de Parnaíba
+438,Santa Rita d'Oeste
+439,Santa Rita do Passa Quatro
+440,Santa Rosa do Viterbo
+441,Santa Salete
+442,Santo Anastácio
+443,Santo Antonio da Alegria
+444,Santo Antonio de Posse
+445,Santo Antonio do Aracanguá
+446,Santo Antonio do Jardim
+447,Santo Antonio do Pinhal
+448,Santo Expedito
+449,Santópolis do Aguapeí
+450,Santos
+451,São Bernardo do Campo
+452,São José do Rio Pardo
+453,São José do Rio Preto
+454,São Bento do Sapucaí
+455,São Caetano do Sul
+456,São Carlos
+457,São Francisco
+458,São João da Boa Vista
+459,São João das Duas Pontes
+460,São João de Iracema
+461,São João do Pau d'Alho
+462,São Joaquim da Barra
+463,São José da Bela Vista
+464,São José do Barreiro
+465,São José dos Campos
+466,São Lourenço da Serra
+467,São Luís do Paraitinga
+468,São Manuel
+469,São Miguel Arcanjo
+470,Bragança Paulista
+471,Votuporanga
+472,Braúna
+473,Brodowski
+474,Altinópolis
+475,Brotas
+476,Buri
+477,Buritama
+478,Anhembi
+479,Bauru
+480,Artur Nogueira
+481,Boa Esperança do Sul
+482,Bocaina
+483,Boituva
+484,São Roque
+485,São Vicente
+486,Sertãozinho
+487,Socorro
+488,São Pedro
+489,São Pedro do Turvo
+490,São Sebastião
+491,São Sebastião da Grama
+492,São Simão
+493,Sarapuí
+494,Sarutaiá
+495,Sebastianópolis do Sul
+496,Serra Azul
+497,Serrana
+498,Serra Negra
+499,Sete Barras
+500,Severínia
+501,Silveiras
+502,Zacarias
+503,Chavantes
+504,Estiva Gerbi
+505,Sorocaba
+506,Sumaré
+507,Suzano
+508,Suzanápolis
+509,Taboão da Serra
+510,Taciba
+511,Taquaritinga
+512,Sud Mennucci
+513,Americana
+514,Tabapuã
+515,Atibaia
+516,Tabatinga
+517,Bebedouro
+518,Bertioga
+519,Taguaí
+520,Taiaçu
+521,Taiúva
+522,Tambaú
+523,Botucatu
+524,Tanabi
+525,Tapiraí
+526,Tapiratiba
+527,Taquaral
+528,Taquarituba
+529,Taquarivaí
+530,Tarabaí
+531,Tarumã
+532,Tatuí
+533,Taubaté
+534,Ubatuba
+535,Tejupá
+536,Teodoro Sampaio
+537,Terra Roxa
+538,Tietê
+539,Timburi
+540,Torre de Pedra
+541,Torrinha
+542,Trabiju
+543,Tremembé
+544,Adamantina
+545,Três Fronteiras
+546,Tuiuti
+547,Tupã
+548,Tupi Paulista
+549,Turiúba
+550,Turmalina
+551,Ubarana
+552,Ubirajara
+553,Uchôa
+554,União Paulista
+555,Urânia
+556,Uru
+557,Urupês
+558,Valentim Gentil
+559,Valinhos
+560,Valparaíso
+561,Vargem
+562,Vargem Grande do Sul
+563,Vargem Grande Paulista
+564,Borebi
+565,Várzea Paulista
+566,Vera Cruz
+567,Vinhedo
+568,Viradouro
+569,Vista Alegre do Alto
+570,Vitória Brasil
+571,Votorantim
+572,Araçatuba
+573,Adolfo
+574,Aguaí
+575,Agudos
+576,Águas da Prata
+577,Águas de Lindóia
+578,Águas de Santa Bárbara
+579,Águas de São Pedro
+580,Alfredo Marcondes
+581,Alambari
+582,Altair
+583,Álvares Machado
+584,Alumínio
+585,Alto Alegre
+586,Álvares Florence
+587,Álvaro de Carvalho
+588,Alvinlândia
+589,Américo Brasiliense
+590,Américo de Campos
+591,Andradina
+592,Amparo
+593,Analândia
+594,Angatuba
+595,Anhumas
+596,Aparecida
+597,Aparecida d'Oeste
+598,Apiaí
+599,Araçariguama
+600,Araraquara
+601,Araçoiaba da Serra
+602,Aramina
+603,Arandu
+604,Arapeí
+605,Avanhandava
+606,Areiópolis
+607,Araras
+608,Ariranha
+609,Arealva
+610,Areias
+611,Arco-Íris
+612,Barretos
+613,Arujá
+614,Assis
+615,Barrinha
+616,Aspásia
+617,Birigui
+618,Avaré
+619,Avaí
+620,Auriflama
+621,Bady Bassitt
+622,Bálsamo
+623,Balbinos
+624,Barueri
+625,Bariri
+626,Bananal
+627,Barão de Antonina
+628,Barbosa
+629,Barra Bonita
+630,Barra do Chapéu
+631,Barra do Turvo
+632,Bernardino de Campos
+633,Bento de Abreu
+634,Bastos
+635,Batatais
+636,Bilac
+637,Biritiba Mirim
+638,Bofete
+639,Borborema
+640,Bom Jesus dos Perdões
+641,Borá
+642,Bom Sucesso de Itararé
+643,Boracéia
+644,Brejo Alegre
