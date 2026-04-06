@@ -1,6 +1,14 @@
 # <p align="center">
 
-# &#x20; <img src="data/logo\_geosaude.png" alt="GeoSaúde" width="400"/>
+# &#x20; <img src="data/logo\\\_geosaude.png" alt="GeoSaúde" width="400"/>
+
+# </p>
+
+# 
+
+# <p align="center">
+
+# &#x20; <img src="https://github.com/lucasbrnd/geosaude/blob/main/data/logo\_geosaude.png?raw=true" alt="GeoSaúde" width="400"/>
 
 # </p>
 
@@ -13,8 +21,6 @@
 # &#x20; para implantação de uma nova unidade de saúde no espaço urbano.
 
 # </p>
-
-# Desenvolvida no âmbito de uma tese de doutorado do **Programa de Engenharia de Transportes** da **Escola de Engenharia de São Carlos (EESC) — Universidade de São Paulo (USP)**.
 
 \---
 
@@ -95,8 +101,8 @@ cp .env.example .env
 Edite o `.env` com suas chaves:
 
 ```
-HERE\_API\_KEY=sua\_chave\_aqui
-OPENTOPO\_API\_KEY=sua\_chave\_aqui
+HERE\\\_API\\\_KEY=sua\\\_chave\\\_aqui
+OPENTOPO\\\_API\\\_KEY=sua\\\_chave\\\_aqui
 ```
 
 As chaves podem ser obtidas em:
@@ -121,11 +127,11 @@ geosaude/
 ├── .env.example             # Modelo de configuração das APIs
 └── data/
     ├── ivs.gpkg             # Atlas de Vulnerabilidade Social (IPEA)
-    ├── ivs\_mun.csv          # Tabela de municípios IVS
+    ├── ivs\\\_mun.csv          # Tabela de municípios IVS
     ├── ipvs.gpkg            # Índice Paulista de Vulnerabilidade Social (SEADE)
-    ├── ipvs\_mun.csv         # Tabela de municípios IPVS
-    ├── sgb\_mun1.csv         # Links de dados SGB por município
-    └── logo\_geosaude.png    # Logotipo do GeoSaúde
+    ├── ipvs\\\_mun.csv         # Tabela de municípios IPVS
+    ├── sgb\\\_mun1.csv         # Links de dados SGB por município
+    └── logo\\\_geosaude.png    # Logotipo do GeoSaúde
 ```
 
 Os dados do Censo 2022 (IBGE) e da rede OSM são baixados automaticamente durante a execução.
@@ -140,17 +146,17 @@ Abra o `example.ipynb` e execute a célula de configuração:
 
 ```python
 import os
-from dotenv import load\_dotenv
-load\_dotenv()
+from dotenv import load\\\_dotenv
+load\\\_dotenv()
 
 from main import main
 
 main(
     mun                   = "Nome do Município",
     uf                    = "UF",
-    here\_api              = os.getenv("HERE\_API\_KEY"),
-    opentopo\_api          = os.getenv("OPENTOPO\_API\_KEY"),
-    forcar\_reprocessamento = False   # True para reprocessar tudo
+    here\\\_api              = os.getenv("HERE\\\_API\\\_KEY"),
+    opentopo\\\_api          = os.getenv("OPENTOPO\\\_API\\\_KEY"),
+    forcar\\\_reprocessamento = False   # True para reprocessar tudo
 )
 ```
 
@@ -170,13 +176,13 @@ Para cada município processado, o GeoSaúde gera os seguintes arquivos em `./da
 resultados/
 └── {município}/
     ├── raster/              # Rasters individuais de cada critério (.tif)
-    ├── cnes\_{mun}\_{uf}\_02.gpkg   # Unidades de APS geocodificadas
-    ├── cnes\_{mun}\_{uf}\_05.gpkg   # Hospitais geocodificados
-    ├── cnes\_{mun}\_{uf}\_73.gpkg   # UPAs geocodificadas
-    ├── geosaude\_{mun}.gpkg       # Resultado final vetorial
-    ├── relatorio\_{mun}.pdf       # Relatório de análise
-    ├── dashboard\_{mun}.html      # Dashboard interativo
-    └── geosaude\_{mun}\_{uf}.log   # Log de execução
+    ├── cnes\\\_{mun}\\\_{uf}\\\_02.gpkg   # Unidades de APS geocodificadas
+    ├── cnes\\\_{mun}\\\_{uf}\\\_05.gpkg   # Hospitais geocodificados
+    ├── cnes\\\_{mun}\\\_{uf}\\\_73.gpkg   # UPAs geocodificadas
+    ├── geosaude\\\_{mun}.gpkg       # Resultado final vetorial
+    ├── relatorio\\\_{mun}.pdf       # Relatório de análise
+    ├── dashboard\\\_{mun}.html      # Dashboard interativo
+    └── geosaude\\\_{mun}\\\_{uf}.log   # Log de execução
 ```
 
 \---
