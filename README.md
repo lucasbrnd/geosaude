@@ -1,26 +1,11 @@
-# <p align="center">
+<p align="center">
+  <img src="https://github.com/lucasbrnd/geosaude/blob/main/logo_readme.png?raw=true" alt="GeoSaúde" width="600"/>
+</p>
 
-# &#x20; <img src="data/logo\\\_geosaude.png" alt="GeoSaúde" width="400"/>
-
-# </p>
-
-# 
-
-# <p align="center">
-
-# &#x20; <img src="https://github.com/lucasbrnd/geosaude/blob/main/data/logo\_geosaude.png?raw=true" alt="GeoSaúde" width="400"/>
-
-# </p>
-
-# 
-
-# <p align="center">
-
-# &#x20; Ferramenta de apoio à decisão para escolha do local de maior viabilidade 
-
-# &#x20; para implantação de uma nova unidade de saúde no espaço urbano.
-
-# </p>
+<p align="center">
+  Ferramenta de apoio à decisão para escolha do local de maior viabilidade 
+  para implantação de uma nova unidade de saúde no espaço urbano.
+</p>
 
 \---
 
