@@ -1,0 +1,59 @@
+# GeoSaúde — Dependências
+# Instale com: pip install -r requirements.txt
+
+# Dados geoespaciais
+geopandas
+shapely
+rasterio
+pyproj
+fiona
+
+# Grade H3
+h3
+h3pandas
+
+# Rede de transporte e acessibilidade
+r5py
+
+# Dados do IBGE
+geobr
+mapclassify
+
+# Topografia
+bmi_topography
+
+# OpenStreetMap
+osmnx
+
+# HTTP e scraping
+requests
+urllib3
+lxml
+beautifulsoup4
+
+# Geocodificação
+geopy
+
+# Dados tabulares
+pandas
+numpy
+
+# Progresso
+tqdm
+
+# Variáveis de ambiente
+python-dotenv
+
+# Download Google Drive
+gdown
+
+# Relatório PDF
+reportlab
+fpdf2
+
+# Dashboard
+plotly
+
+# Jupyter
+ipykernel
+ipywidgets
